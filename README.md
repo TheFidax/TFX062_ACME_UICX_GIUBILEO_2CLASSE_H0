@@ -1,31 +1,26 @@
-# Scheda di Illuminazione Digitale per vetture [Roco](https://www.roco.cc/it/home/index.html) Eurofima di Seconda Classe in Scala H0
-Questa scheda e' pensata per illuminare in maniera digitale le vetture Roco Eurofima, di *seconda classe*, in scala H0.</br>
+# Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) UicX Giubileo di Seconda Classe in Scala H0
+Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME UicX Giubileo di *seconda classe*, in scala H0.</br>
 E' stata progettata espressamente sugli ingombri stutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
 - Corridoio 
 - *Luci Diurne Compartimenti*
 - **Luci Notturne Blu Compartimenti**
-- *Ritirate* 
 - Predisposizione per le *Luci di Coda Rosse* 
 
-**Ultima Revisione HardWar: 2.01**</br>
+**Ultima Revisione HardWar: 1.01**</br>
 
 **Alcune Immagini Dimostrative:**
 
 - Carrozza in condizioni luminose *Diurne* con tutti i LED bianchi accesi
 <img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/diurna_bianchi.jpg" width="1280">
 
-- Carrozza in condizione luminose *Diurne* con *corridoio* e *ritirate* illuminate e *compartimenti con luci blu*.
+- Carrozza in condizione luminose *Diurne* con *corridoio* illuminato e *compartimenti con luci blu*.
 <img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/diurna_blu.jpg" width="1280">
 
 - Carrozza in condizioni luminose *Notturne* con tutti i LED bianchi accesi 
 <img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/notturna_bianchi.jpg" width="1280">
 
-- Carrozza in condizioni luminose *Notturne* con con *ritirate* illuminate e *compartimenti con luci blu*.
-<img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/notturna_blu1.jpg" width="1280">
-
-- Carrozza in condizione luminose *Notturne* con *corridoio* e *ritirate* illuminate e *compartimenti con luci blu*.
-<img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/notturna_blu2.jpg" width="1280"></br>
-**NOTA**: Il modello *non ha divisori fisici* tra il corridoio e i compartimenti, per sfruttare al meglio le luci blu e' necessario isolare gli ambienti con riproduzioni di tende (come avviene al vero in notturna).</br> 
+- Carrozza in condizione luminose *Notturne* con *corridoio* illuminato e *compartimenti con luci blu*.
+<img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/notturna_blu.jpg" width="1280"></br>
 
 ------------
 

@@ -42,6 +42,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
   - [Decoder PluX](#interfaccia-plux)
   - [Porta SUSI](#porta-susi)
+* [Contattami](#Contattami)
 
 ------------
 
@@ -213,3 +214,8 @@ Il connettore PluX fornisce il collegamento alle rotaie (per portare i comandi a
 <img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/susi.jpg" width="1280">
 
 Per garantire la massima personalizzazione, e' presente anche **una porta SUSI** per eventuali moduli SUSI esterni.
+
+------------
+
+## Contattami
+Per curiosita' o ulteriori informazioni puo contattarmi al seguente indirizzo email:  	TheFidaxContactsAtgmail.com

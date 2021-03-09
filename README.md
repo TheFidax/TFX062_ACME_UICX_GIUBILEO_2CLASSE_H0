@@ -119,7 +119,7 @@ Come ulteriore protezione la scheda **può essere equipaggiata** con un sistema 
 ------------
 
 ### Protezione Sovratensioni (Opzionale)
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/diurna_bianchi.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/ltc4367.jpg" width="1280">
 
 Questa protezione **e' opzionale**: la sua presenza **e' segnalata dal Jumper J1 *aperto***. (**N.B.** Nella revisione HardWare 1.00 il Jumper J1 **e' assente**, e' stato introdotto dalla versione 1.01)</br>
 Le normative [NMRA](https://www.nmra.org/sites/default/files/standards/sandrp/pdf/s-9.1_electrical_standards_2020.pdf) e [NEM](https://morop.org/downloads/nem/fr/nem670_f.pdf) **impongono** che un decoder digitali *supportino* tensioni fino a 27 volt.</br>

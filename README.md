@@ -180,7 +180,7 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 ------------
 
 ### Illuminazione Compartimenti con Luci Diurne e Notturne
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/luci_compartimenti.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/luci_compartimenti.jpg" width="1280">
 
 Questa scheda fornisce, per ogni compartimento, la **doppia illuminazione**: *Diurna* con LED Bianco Freddo e *Notturna* con LED Blu.</br>
 Ogni LED e' indipendente e puo' essere pilotato dal microcontrollore in maniera indipendente dall'altro.</br>
@@ -188,8 +188,8 @@ Ogni LED e' indipendente e puo' essere pilotato dal microcontrollore in maniera 
 ------------
 
 ### Luci di Coda Rosse
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/luci_coda_pad.jpg" width="1280">
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/luci_coda_npn.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/luci_coda_pad.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/luci_coda_npn.jpg" width="1280">
 
 Su entrambi i lati sono presenti le connessioni per delle **Luci di Coda Rosse**.</br>
 Le connessioni prevedere un *polo positivo* collegato alla linea a **5 volt** e un *polo negativo* pilotato dal micro tramite transistor.

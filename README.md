@@ -57,7 +57,7 @@ Il manuale della scheda è [disponibile qui](https://github.com/TheFidax/TFX040_
 ------------
 
 ## FirmWare
-Il Firmware dedicato e' presente sotto la cartella [FirmWare](https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/tree/main/FirmWare), per poterlo caricare è consigliata la seguente [Shield](https://github.com/TheFidax/ProgrammerUpdaterShield).</br>
+Il Firmware dedicato e' presente sotto la cartella [FirmWare](https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/FirmWare), per poterlo caricare è consigliata la seguente [Shield](https://github.com/TheFidax/ProgrammerUpdaterShield).</br>
 Le cifre finali del file .HEX identificano la versione del FirmWare.
 
 *NOTA*: Nella cartella e' presente anche un file chiamto *TFX062_TEST_AUX.hex* ; questo firmware attiva, a scheda alimentata, tutte le AUX.</br>
@@ -66,9 +66,9 @@ Le cifre finali del file .HEX identificano la versione del FirmWare.
 ------------
 
 ## HardWare
-Il progetto di questa scheda e' disponibile qui: https://circuitmaker.com/Projects/Details/luca-fidanza/Roco-EuroFima-2nd-Class-H0 .</br>
+Il progetto di questa scheda e' disponibile qui: https://workspace.circuitmaker.com/Projects/Details/luca-fidanza/ACME-UIC-X-Giubileo-2nd-Class-H0 .</br>
 **Viene rilasciato con la seguente Licenza**: https://creativecommons.org/licenses/by-nc-nd/4.0/ .</br>
-I **File Gerber**, il **BOM** e il file **Pick and Place** sono nel [file Zip](https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/HardWare/Roco%20EuroFima%202nd%20Class%20H0%202_01.Zip) disponibile sotto la cartella HardWare.</br> 
+I **File Gerber**, il **BOM** e il file **Pick and Place** sono nel file **.Zip** disponibile sotto la cartella [HardWare](https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/HardWare).</br> 
 
 ------------
 

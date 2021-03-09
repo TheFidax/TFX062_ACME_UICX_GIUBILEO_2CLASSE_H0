@@ -172,7 +172,7 @@ La scheda e' dotata di sistema per fornire l'ACK nella **programmazione DCC medi
 Per programmare il microcontrollore e' presente *una porta di programmazione ISP* con connettore JST SH6 per prevenire connessioni invertite.</br>
 Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante il seguente schema:</br>
 
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/isp_i2c.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/isp_i2c.jpg" width="1280">
 
 ------------
 
@@ -207,7 +207,6 @@ Il connettore PluX fornisce il collegamento alle rotaie (per portare i comandi a
 ------------
 
 ### Porta SUSI
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/susi_porta.jpg" width="1280">
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/susi_resistori.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/susi.jpg" width="1280">
 
 Per garantire la massima personalizzazione, e' presente anche **una porta SUSI** per eventuali moduli SUSI esterni.

@@ -39,9 +39,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Sistema ACK](#sistema-ack)
   - [Porta di Programmazione ISP](#porta-di-programmazione-isp)
   - [Compartimenti con Luci Diurne e Notturne *indipendenti*](#illuminazione-compartimenti-con-luci-diurne-e-notturne)
-  - [Ritirate *indipendenti*](#illuminazione-ritirate)
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
-  - [Altoparlante](#altoparlante)
   - [Decoder PluX](#interfaccia-plux)
   - [Porta SUSI](#porta-susi)
 
@@ -49,9 +47,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 
 ## Video Presentazione del Progetto
-[![Video Presentazione](https://img.youtube.com/vi/wB8cmPJ338o/0.jpg)](http://www.youtube.com/watch?v=wB8cmPJ338o)
-
-Questo video di presentazione e' riferito alla *revisione HardWare 1.93*, pertanto ci sono delle differenze rispetto all'attuale versione. 
+[![Video Presentazione](https://img.youtube.com/vi/xxxxx/0.jpg)](http://www.youtube.com/watch?v=xxxxx)
 
 ------------
 
@@ -64,7 +60,7 @@ Il manuale della scheda è [disponibile qui](https://github.com/TheFidax/TFX040_
 Il Firmware dedicato e' presente sotto la cartella [FirmWare](https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/tree/main/FirmWare), per poterlo caricare è consigliata la seguente [Shield](https://github.com/TheFidax/ProgrammerUpdaterShield).</br>
 Le cifre finali del file .HEX identificano la versione del FirmWare.
 
-*NOTA*: Nella cartella e' presente anche un file chiamto *TFX040_TEST_AUX.hex* ; questo firmware attiva, a scheda alimentata, tutte le AUX.</br>
+*NOTA*: Nella cartella e' presente anche un file chiamto *TFX062_TEST_AUX.hex* ; questo firmware attiva, a scheda alimentata, tutte le AUX.</br>
 **Serve Esclusivamente in fase di assemblaggio** per verificare che tutte le saldature siano state effettuate correttamente. **NON E' IL FIRMWARE PER IL FUNZIONAMENTO NORMALE.**
 
 ------------
@@ -87,9 +83,7 @@ Di seguito sono riportate le caratteristiche della scheda, poi spiegate in detta
 - [ACK System](#sistema-ack)
 - [JST SH6 connector](#porta-di-programmazione-isp) to program AtMega with ISP system and to provide I2C Bus from external target
 - All [compartments](#illuminazione-compartimenti-con-luci-diurne-e-notturne) illuminated independently (with Day and Night lights)
-- [Bathrooms](#illuminazione-ritirate) illuminated independently
 - Pads for [tail red lights](#luci-di-coda-rosse)
-- Space for [20mm round speaker](#altoparlante) (recommended 8Ω 2w)
 - [PluX Interface](#interfaccia-plux) (with Sound and SUSI BUS)
 - [SUSI Port](#porta-susi) for External Module
 - MINIMUM CLEARANCE: 6mil
@@ -190,28 +184,12 @@ Ogni LED e' indipendente e puo' essere pilotato dal microcontrollore in maniera 
 
 ------------
 
-### Illuminazione Ritirate
-<img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/luce_ritirate.jpg" width="1280">
-
-Ogni ritirata ha un LED Bianco Freddo, indipendente da tutti gli altri LED della scheda.</br>
-Questa configurazione permette la massima configurabilita' luminosa della vettura.
-
-------------
-
 ### Luci di Coda Rosse
 <img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/luci_coda_pad.jpg" width="1280">
 <img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/luci_coda_npn.jpg" width="1280">
 
 Su entrambi i lati sono presenti le connessioni per delle **Luci di Coda Rosse**.</br>
 Le connessioni prevedere un *polo positivo* collegato alla linea a **5 volt** e un *polo negativo* pilotato dal micro tramite transistor.
-
-------------
-
-### Altoparlante
-<img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/altoparlante.jpg" width="1280">
-
-La scheda ha lo spazio, e connessioni, per un altoparlante da 20 millimetri.</br>
-*Consigliato 8 Ohm e 2 Watt*.
 
 ------------
 

@@ -194,7 +194,7 @@ Le connessioni prevedere un *polo positivo* collegato alla linea a **5 volt** e 
 ------------
 
 ### Interfaccia PluX
-<img src="https://github.com/TheFidax/TFX040_ROCO_EUROFIMA_2CLASSE_H0/blob/main/Images/plux.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/plux.jpg" width="1280">
 
 E' presente un **connettore PluX** per poter utilizzare decoder commerciali.</br>
 Durante il funzionamento con Decoder, la scheda di illuminazione diventa un [Modulo SUSI](https://github.com/TheFidax/Rcn600), questa configurazione diventa necessario se e' richiesto un protocollo *proprietario* non decodifcicabile dalla scheda.</br>

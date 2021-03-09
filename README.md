@@ -161,13 +161,13 @@ Questo sistema **e' compatibile con il DCC e con il Motorola**.
 ------------
 
 ### Sistema ACK
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/ack.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/ack.jpg" width="1280">
 La scheda e' dotata di sistema per fornire l'ACK nella **programmazione DCC mediante binario di programmazione**.
 
 ------------
 
 ### Porta di Programmazione ISP
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/isp.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/isp.jpg" width="1280">
 
 Per programmare il microcontrollore e' presente *una porta di programmazione ISP* con connettore JST SH6 per prevenire connessioni invertite.</br>
 Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante il seguente schema:</br>

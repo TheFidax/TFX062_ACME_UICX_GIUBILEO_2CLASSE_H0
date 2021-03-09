@@ -91,7 +91,7 @@ Di seguito sono riportate le caratteristiche della scheda, poi spiegate in detta
 ------------
 
 ### Ponte di Diodi Schottky
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/ss310.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/ss310.jpg" width="1280">
 
 Il circuito di alimentazione e' realizzato meadiante 4 diodi Schottky in configurazione [Ponte di Graetz](https://it.wikipedia.org/wiki/Raddrizzatore#Ponte_di_Graetz).</br>
 Tale configurazione permette di *raddrizzare* la tensione captata dalle prese di corrente in Conrente Continua a prescindere del sistema di alimentazione:
@@ -103,14 +103,14 @@ Tale configurazione permette di *raddrizzare* la tensione captata dalle prese di
 ------------
 
 ### Chip Step Down Buck MCP16331
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/mcp16331.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/mcp16331.jpg" width="1280">
 
 L'alimentazione a 5 volt e' fornita dal chip [Microchip MCP16331](https://www.microchip.com/wwwproducts/en/MCP16331), un regolatore di tensione di tipo [Step Down Buck](https://it.wikipedia.org/wiki/Convertitore_buck) in gradi di ricevere in ingresso tensioni fino a 50 volt e di fornire in uscita una tensione stabile a 5 volt con sviluppo di calore minimo.</br>
 
 ------------
 
 ### Condensatori PowerPack
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/powerpack.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/powerpack.jpg" width="1280">
 
 Per sopperire a problemi di captazione di corrente e' previsto un sistema *powerpack* formato da 4 condensatori al Tantalio da 100uF con tensione **massima** di 25 volt.</br>
 I condensatori sono separati dal circuito di alimentazione da un Diodo ed un Resistore che rappresentano *il sistema di ricarica lenta*.
@@ -131,7 +131,7 @@ Il sistema di protezione si basa sul chip [LTC4367](https://www.analog.com/en/pr
 ------------
 
 ### Microchip ATmega128A
-<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/Images/atmega.jpg" width="1280">
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/atmega.jpg" width="1280">
 
 Il *cervello* della scheda e' un microcontrollore [ATmega128A](https://www.microchip.com/wwwproducts/en/ATmega128A) a 64 pin operante a 5 volt con frequenza di 16MHz tramite cristallo esterno.</br>
 Il microcontrollore comanda *in maniera indipendente* tutti (leggere NOTA) i LED, in modo tale da garantire la massima flessibilita' di funzionamento.

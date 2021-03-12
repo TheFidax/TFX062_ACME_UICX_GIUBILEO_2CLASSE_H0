@@ -11,15 +11,19 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 **Alcune Immagini Dimostrative:**
 
 - Carrozza in condizioni luminose *Diurne* con tutti i LED bianchi accesi
+
 <img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/diurna_bianchi.jpg" width="1280">
 
 - Carrozza in condizione luminose *Diurne* con *corridoio* illuminato e *compartimenti con luci blu*.
+
 <img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/diurna_blu.jpg" width="1280">
 
 - Carrozza in condizioni luminose *Notturne* con tutti i LED bianchi accesi 
+
 <img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/notturna_bianchi.jpg" width="1280">
 
 - Carrozza in condizione luminose *Notturne* con *corridoio* illuminato e *compartimenti con luci blu*.
+
 <img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/notturna_blu.jpg" width="1280"></br>
 
 ------------

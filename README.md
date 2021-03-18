@@ -231,7 +231,7 @@ Per esperienza personale consiglio di cominciare l'assemblaggio dal Chip **LTC43
 
 I successivi pezzi possono essere saldati seguendo un ordine a scelta dell'utente.
 
-*Nel caso in cui si volesse la scheda **gia' assemblata** e' possibile contattarmi all'indirizzo mail sottoriportato oppure seguire eventuali aste di pezzi in esubero sul mio profilo Ebay*: https://www.ebay.it/sch/the_fidax/m.html?_nkw=&_armrs=1&_ipg=&_from= 
+*Nel caso in cui si volesse la scheda **gia' assemblata** e' possibile contattarmi all'indirizzo mail sottoriportato oppure seguire eventuali aste di pezzi in esubero sul mio profilo **Ebay***: https://www.ebay.it/sch/the_fidax/m.html
 
 ------------
 

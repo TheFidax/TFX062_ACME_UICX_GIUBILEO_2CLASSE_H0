@@ -26,6 +26,10 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 <img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/notturna_blu.jpg" width="1280"></br>
 
+- Scheda nella sua posizione appoggiata sopra gli interni:
+
+<img src="https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/blob/main/Images/scheda_posizionata.jpg" width="1280"></br>
+
 ------------
 
 ## Indice

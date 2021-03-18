@@ -6,7 +6,9 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 - **Luci Notturne Blu Compartimenti**
 - Predisposizione per le *Luci di Coda Rosse* 
 
-**Ultima Revisione HardWare: 1.01**</br>
+**Ultima Revisione HardWare: 1.01**
+
+**Ultima Revisione SoftWare: 007**
 
 **Alcune Immagini Dimostrative:**
 
@@ -72,6 +74,8 @@ Le cifre finali del file .HEX identificano la versione del FirmWare.
 
 *NOTA*: Nella cartella e' presente anche un file chiamto *TFX062_TEST_AUX.hex* ; questo firmware attiva, a scheda alimentata, tutte le AUX.</br>
 **Serve Esclusivamente in fase di assemblaggio** per verificare che tutte le saldature siano state effettuate correttamente. **NON E' IL FIRMWARE PER IL FUNZIONAMENTO NORMALE.**
+
+**NOTA: Per conoscere la versione del Firmware presente a bordo e' sufficiente *Leggere la CV 7*.**
 
 ------------
 

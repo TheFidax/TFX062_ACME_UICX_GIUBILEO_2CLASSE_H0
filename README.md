@@ -46,6 +46,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
   - [Luci di Coda Rosse](#luci-di-coda-rosse)
   - [Decoder PluX](#interfaccia-plux)
   - [Porta SUSI](#porta-susi)
+* [Contattami](#Assemblaggio)
 * [Contattami](#Contattami)
 
 ------------

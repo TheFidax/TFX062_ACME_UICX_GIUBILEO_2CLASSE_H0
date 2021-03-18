@@ -76,6 +76,8 @@ Il progetto di questa scheda e' disponibile qui: https://workspace.circuitmaker.
 **Viene rilasciato con la seguente Licenza**: https://creativecommons.org/licenses/by-nc-nd/4.0/ .</br>
 I **File Gerber**, il **BOM** e il file **Pick and Place** sono nel file **.Zip** disponibile sotto la cartella [HardWare](https://github.com/TheFidax/TFX062_ACME_UICX_GIUBILEO_2CLASSE_H0/tree/main/HardWare).</br> 
 
+**NOTA**: Lo spessore *consigliato* del PCB per questa scheda è di: **0,6mm**
+
 ------------
 
 ## Caratteristiche della Scheda

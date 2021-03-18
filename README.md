@@ -224,5 +224,15 @@ Per garantire la massima personalizzazione, e' presente anche **una porta SUSI**
 
 ------------
 
+## Assemblaggio
+Il file *BoM* comprende la lista di tutti i pezzi necessario all'assemblaggio in proprio della scheda.</br>
+Per esperienza personale consiglio di cominciare l'assemblaggio dal Chip **LTC4367** in quanto il più ostico da saldare a mano; nel caso in cui questo chip *non fosse richiesto* allora è consigliabile cominciare dal *Microcontrollore ATmega128A*.
+
+I successivi pezzi possono essere saldati seguendo un ordine a scelta dell'utente.
+
+*Nel caso in cui si volesse la scheda **gia' assemblata** e' possibile contattarmi all'indirizzo mail sottoriportato oppure seguire eventuali aste di pezzi in esubero sul mio profilo Ebay*: https://www.ebay.it/sch/the_fidax/m.html?_nkw=&_armrs=1&_ipg=&_from= 
+
+------------
+
 ## Contattami
 Per curiosita' o ulteriori informazioni puo contattarmi al seguente indirizzo email:  	TheFidaxContactsAtgmail.com

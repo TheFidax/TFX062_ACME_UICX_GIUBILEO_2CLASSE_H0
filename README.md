@@ -1,4 +1,4 @@
-# Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) UicX Giubileo di Seconda Classe in Scala H0
+# Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) [UicX Giubileo di Seconda Classe] (https://scalaenne.wordpress.com/2013/02/09/carrozze-uic-x-parte-quarta-lepoca-xmpr-e-il-revamping/) in Scala H0
 Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME UicX Giubileo di *seconda classe*, in scala H0.</br>
 E' stata progettata espressamente sugli ingombri stutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
 - Corridoio 

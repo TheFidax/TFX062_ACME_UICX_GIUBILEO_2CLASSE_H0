@@ -6,9 +6,9 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 - **Luci Notturne Blu Compartimenti**
 - Predisposizione per le *Luci di Coda Rosse* 
 
-**Ultima Revisione HardWare: 1.03**
+**Ultima Revisione HardWare: 1.04**
 
-**Ultima Revisione SoftWare: 007**
+**Ultima Revisione SoftWare: 009**
 
 **Alcune Immagini Dimostrative:**
 

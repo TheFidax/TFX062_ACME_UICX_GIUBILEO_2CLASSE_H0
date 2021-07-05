@@ -6,7 +6,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 - **Luci Notturne Blu Compartimenti**
 - Predisposizione per le *Luci di Coda Rosse* 
 
-**Codice Identificativo del Progetto: TFX062**
+**Codice Identificativo Progetto: TFX062**
 
 **Ultima Revisione HardWare: 1.04**
 
